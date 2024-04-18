@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (max-width:600px) {
+
+    .form-image{
+        display: none;
+    }
+    
+    .contanainer{
+        width: 70%;
+        overflow: hidden;
+    }
+
+    .form{
+        width: 100%;
+    }
+
+    #ifr{
+       
+        width: 100%;
+        
+    }
+    
+}
